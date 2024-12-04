@@ -20,24 +20,23 @@
 
 ### 📦 Recursos
 
-#### GIT
+**📁 GIT**
 
   - [Visualizar conceptos con D3](https://onlywei.github.io/explain-git-with-d3)
   - [Taller de introducción a GIT](https://sharp-voice-0ff.notion.site/Taller-de-introducci-n-a-git-y-GitHub-5c0269251ed9475fab606cd57b9cae34?pvs=4)
   - [Guía de supervivencia de GIT](https://sharp-voice-0ff.notion.site/GIT-Gu-a-de-supervivencia-b1ceff4f3b1040bdb27b1e39df9b4cfb?pvs=4)
   - [SOS Git](https://firstaidgit.io/#/)
   - [Escrbir en Markdown](https://docs.github.com/es/get-started/writing-on-github)
-
   - [Curso de GIT y GITHUB (youtube)](https://youtu.be/3GymExBkKjE)
   
-> 💡 Para obtener la url de un fichero en GIThub y que esta URL pertenezca a un commit específico, desde el navegador, desde el teclado pulsar `y` y se copia la url con el hash del commit.
+    > 💡 Para obtener la url de un fichero en GIThub y que esta URL pertenezca a un commit específico, desde el navegador, desde el teclado pulsar `y` y se copia la url con el hash del commit.
 
-#### GIF
+**📹 GIF**
 
   - [ScreenToGif](https://www.screentogif.com/) grabar la pantalla y convertirlo en gif.
   
 
-#### :heavy_plus_sign: Extensiones de VSCode
+**:heavy_plus_sign: Extensiones de VSCode**
 
   - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
   - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
