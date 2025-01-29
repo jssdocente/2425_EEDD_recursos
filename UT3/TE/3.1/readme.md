@@ -1,4 +1,4 @@
-# TE2.1 - Configuración de Eclipse y JetBrains IntelliJ IDEA
+# TE3.1 - Configuración de Eclipse y JetBrains IntelliJ IDEA
 
 En esta tarea de aprendizaje, aprenderás a instalar el JDK y JREs en Windows y Linux, y a configurar Eclipse y JetBrains IntelliJ IDEA.
 
