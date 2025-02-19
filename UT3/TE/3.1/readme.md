@@ -75,7 +75,7 @@ $> which java
 
 ### 2. Utilización de SDKMan
 
-5. Instala SDKMan en Windows. (_Para ello puedes seguir la guía disponible [aquí](https://github.com/jssdocente/2425_EEDD_recursos/edit/main/UT3/TE/3.1/readme.md)
+5. Instala SDKMan en Windows. (_Para ello puedes seguir la guía disponible [aquí](https://github.com/jssdocente/2425_EEDD_recursos/UT3/TE/3.1/readme.md)
 
    - Instala SDKMan en Windows e explica los pasos que has seguido, adjunta una captura final de SDK funcionando.
 
