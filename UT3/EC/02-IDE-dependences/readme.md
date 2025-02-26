@@ -9,8 +9,9 @@
 
 ## Entrega
 
-El proyecto se almacenará dentro de tu repositorio oficial de alumno, en la carpeta `UT3\EC\02`.
-Se entregará en Moodle, indicando en enlace al directorio en vuestro repositorio.
+- El proyecto se almacenará dentro de tu repositorio oficial de alumno, en la carpeta `UT3\EC\02`.
+- Se entregará en Moodle, indicando en enlace al directorio en vuestro repositorio.
+
 
 ## **Requisitos Previos**
 
@@ -34,6 +35,7 @@ EL paquete base del proyecto es `com.softmar.MoneyConvert`.
 4. Crea un fichero .gitignore (para solo subir a git ficheros necesario.)
 5. Con la herramienta online `https://www.toptal.com/developers/gitignore`, genera el contenido del fichero, indicando las palabras clave `Java Intellj`.
 6. Copia el contenido generado en la herramienta, al fichero .gitignore del proyecto.
+7. Crea un fichero `readme.md` en la raíz del proyecto, y copia esta documentación.
 
 
 ### **2. Descargar la librería Joda Money**
@@ -179,6 +181,3 @@ Total con descuentos aplicados: USD 1870.00
 
 
 ---
-
-Con esta práctica, los alumnos aprenderán a generar y distribuir ejecutables de sus aplicaciones Java en un entorno Windows sin depender de Java directamente.
-
