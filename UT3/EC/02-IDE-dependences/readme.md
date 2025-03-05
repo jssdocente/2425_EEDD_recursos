@@ -47,7 +47,7 @@ EL paquete base del proyecto es `com.softmar.MoneyConvert`.
 
 1. Abre el proyecto en IntelliJ IDEA.
 2. Ir a `File > Project Structure > Modules > Dependencies`.
-3. Click en botón `+ > JARs or directories…` y seleccionen el archivo `joda-money-1.0.3.jar`.
+3. Click en botón `+ > JARs or directories…` y seleccionen el archivo `joda-money-2.0.0.jar`.
 
 
 ### **4. Crear clases**
