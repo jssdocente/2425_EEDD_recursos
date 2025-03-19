@@ -31,6 +31,7 @@ Este archivo es el corazón de Maven. Contiene:
 - **dependencies**: Lista de librerías necesarias.
 
 Ejemplo de `pom.xml`:
+
 ```xml
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -74,6 +75,7 @@ Ejemplo de `pom.xml`:
 4. Finalizar y abrir el proyecto.
 
 ### Agregar la librería Joda Money
+
 Editar `pom.xml` y añadir:
 ```xml
 <dependencies>
@@ -96,7 +98,9 @@ Editar `pom.xml` y añadir:
 ```
 
 ### Crear una Clase de Ejemplo
+
 Crear `Main.java` dentro de `src/main/java/com/example`:
+
 ```java
 import org.joda.money.CurrencyUnit;
 import org.joda.money.Money;
@@ -120,6 +124,7 @@ public class Main {
 ```
 
 ### Compilar y Ejecutar el Proyecto
+
 1. Abrir una terminal en IntelliJ y ejecutar:
    ```sh
    mvn clean package
@@ -152,6 +157,7 @@ Un repositorio en Maven es un almacenamiento de artefactos (librerías, plugins,
 3. **Repositorios Remotos**: Son repositorios personalizados alojados en servidores privados o en plataformas como Nexus o JFrog Artifactory. Se configuran en `pom.xml`.
 
 Ejemplo de configuración de un repositorio remoto en `pom.xml`:
+
 ```xml
 <repositories>
     <repository>
