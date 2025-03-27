@@ -7,6 +7,11 @@ El objetivo de este ejercicio es usar la librería Maven desplegada en el servid
 - Alumno 1: 
 - Alumno 2: 
 
+
+### Recursos
+
+- [Explicación de los archivos pom y settings](https://josemtech.com/2022/12/01/archivos-pom-y-settings/)
+
 ## Entrega
 
 Guarda este proyecto en tu repositorio de Github, dentro de la carpeta `TE\3.5`, con el nombre `AnalizadorDatos`. Será un proyecto basado en Maven.
