@@ -46,7 +46,7 @@ Dentro del archivo `pom.xml`, indica la dirección del repositorio hosted.
 <repositories>
     <repository>
         <id>demo-repo</id>
-        <url>http://10.0.10.253:8081/repository/demo-repo/</url>
+        <url>http://157.245.38.33:8081/repository/demo-repo/</url>
     </repository>
 </repositories>
 ```
@@ -66,7 +66,7 @@ En el archivo `pom.xml` tiene un alcance de solo el proyecto actual, y si lo rea
 <repositories>
     <repository>
         <id>demo-repo</id>
-        <url>http://10.0.10.253:8081/repository/demo-repo/</url>
+        <url>http://157.245.38.33:8081/repository/demo-repo/</url>
     </repository>
 </repositories>
 ```
@@ -86,10 +86,10 @@ En el ejemplo siguiente, se incluye el nombre del perfil simulnado a una empresa
   <pluginGroups/>
   <servers>
    <server>
-        <id>demo-repo</id>
-        <username>alumnouser</username>
-        <password>alumnouser</password>
-    </server>
+    <id>demo-repo</id>
+    <username>alumnouser</username>
+    <password>alumnouser</password>
+   </server>
   </servers>	
   <mirrors/>
   <proxies/>
@@ -100,7 +100,7 @@ En el ejemplo siguiente, se incluye el nombre del perfil simulnado a una empresa
      <repositories>
        <repository>
         <id>demo-repo</id>
-	      <url>http://192.168.65.102:8081/repository/demo-repo</url>
+	      <url>http://157.245.38.33/repository/demo-repo</url>
        </repository>
      </repositories>
    </profile>
