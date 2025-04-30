@@ -1,8 +1,8 @@
-# Tarea evaluable 4.1. Análisis de Algoritmos y Complejidad Ciclomática
+# Tarea evaluable 4.2. Análisis de Algoritmos y Complejidad Ciclomática
 
 ### Entrega
 
-En tu repositorio de GitHub, crea una carpeta llamada `UT4` y dentro de ella una subcarpeta llamada `TE4.1`. En esta última, añade un archivo llamado `readme.md` donde copiarás el contenido de este documento. Completa las partes del ejercicio que se indican y entrega el link a tu repositorio en Moodle.
+En tu repositorio de GitHub, crea una carpeta llamada `UT4` y dentro de ella una subcarpeta llamada `TE4.2`. En esta última, añade un archivo llamado `readme.md` donde copiarás el contenido de este documento. Completa las partes del ejercicio que se indican y entrega el link a tu repositorio en Moodle.
 
 Las imágenes guardalas en la carpeta `UT4\TE4.1\_res\img`.
 
