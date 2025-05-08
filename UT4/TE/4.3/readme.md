@@ -218,12 +218,12 @@ Debes probar los siguientes casos de prueba:
 
 - `esPar` (crear método `testEsPar` y comprobar los siguientes casos):
   - Comprobar que el número 0 es par.
-  - Comprobar que el número 1 NO es impar.
+  - Comprobar que el número 1 NO es par.
   - Comprobar que el número 4 es par.
   - Comprobar que el número 5 NO es impar.
   
 - `esImpar` (crear método `testEsImpar`):
-  - Comprobar que el número 0 no es impar.
+  - Comprobar que el número 0 no es par.
   - Comprobar que el número 5 es impar.
   - Comprobar que el número 6 no es impar.
   - Comprobar que el número 7 es impar.
