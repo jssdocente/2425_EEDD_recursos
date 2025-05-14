@@ -195,13 +195,10 @@ public class Banco {
    - cerrar() con saldo distinto de 0 lanza excepción.
 
 2. BancoTest.java
-    - abrirCuenta asigna número único.
-    - abrirCuenta para mismo cliente lanza excepción.
-    - cerrarCuenta elimina la cuenta.
-    - cerrarCuenta de cuenta con saldo lanza excepción.
-    - transferir transfiere correctamente el saldo.
-    - transferir entre mismo titular lanza excepción.
-    - obtenerCuenta devuelve cuenta correcta.
+    - abrirCuenta: para mismo cliente lanza excepción.
+    - cerrarCuenta: pone la cuenta inactiva.
+    - cerrarCuenta: con saldo lanza excepción.
+    - obtenerCuenta: devuelve cuenta correcta.
     - obtenerCuenta con número inválido lanza excepción.
     - transferir:
       - titulares iguales lanza excepción.
